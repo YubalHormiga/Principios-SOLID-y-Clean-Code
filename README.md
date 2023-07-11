@@ -23,11 +23,8 @@ En este curso aprenderé:
 - Los principios SOLID.
 ```
 
-
-
 Clonar o descargar el proyecto y luego:
 
-```
 yarn install
 ó
 npm install
